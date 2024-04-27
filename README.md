@@ -101,7 +101,7 @@ else:
 # ii) Find the element in a list using Binary Search(Iterative Method).
 ![image](https://github.com/Kavin1311/Search-Algorithms/assets/145695724/722c95c8-863f-4292-b5f2-ca5bf6854198)
 
-# iii)	# Find the element in a list using Binary Search (recursive Method).
+# iii) Find the element in a list using Binary Search (recursive Method).
 ![image](https://github.com/Kavin1311/Search-Algorithms/assets/145695724/ed244495-35a5-47e6-bd87-0d0f600d0982)
 
 
