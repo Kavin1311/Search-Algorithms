@@ -68,7 +68,7 @@ else:
     print("Element found at index: ",result)
 
 ```
-### iii)# Find the element in a list using Binary Search (recursive Method).
+### iii) Find the element in a list using Binary Search (recursive Method).
 ```
 #Developed by: KAVINAJAI.T
 #Register number:212223100020
