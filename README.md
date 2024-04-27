@@ -17,7 +17,7 @@ To write a program to perform linear search and binary search using python progr
 5.	Else, compare x with the middle element of the elements on the left side of mid. This is done by setting high to high = mid - 1.
 6.	Repeat steps 2 to 5 until low meets high
 ## Program:
-i)	#Use a linear search method to match the item in a list.
+# i)Use a linear search method to match the item in a list.
 ```
 #Developed by:KAVINAJAI.T
 #Register number:212223100020
@@ -41,7 +41,7 @@ else:
 
 
 ```
-ii)	# Find the element in a list using Binary Search(Iterative Method).
+# ii) Find the element in a list using Binary Search(Iterative Method).
 ```
 Developed by:KAVINAJAI.T
 #Register number:212223100020
@@ -68,7 +68,7 @@ else:
     print("Element found at index: ",result)
 
 ```
-iii)	# Find the element in a list using Binary Search (recursive Method).
+### iii)# Find the element in a list using Binary Search (recursive Method).
 ```
 #Developed by: KAVINAJAI.T
 #Register number:212223100020
@@ -95,13 +95,13 @@ else:
     print("Element found at index: ",result)
 ```
 ## Sample Input and Output
-#Use a linear search method to match the item in a list.
+# i) Use a linear search method to match the item in a list.
 ![image](https://github.com/Kavin1311/Search-Algorithms/assets/145695724/81b1e040-eb2b-4163-8eb8-644633491ece)
 
-ii)	# Find the element in a list using Binary Search(Iterative Method).
+# ii) Find the element in a list using Binary Search(Iterative Method).
 ![image](https://github.com/Kavin1311/Search-Algorithms/assets/145695724/722c95c8-863f-4292-b5f2-ca5bf6854198)
 
-iii)	# Find the element in a list using Binary Search (recursive Method).
+# iii)	# Find the element in a list using Binary Search (recursive Method).
 ![image](https://github.com/Kavin1311/Search-Algorithms/assets/145695724/ed244495-35a5-47e6-bd87-0d0f600d0982)
 
 
